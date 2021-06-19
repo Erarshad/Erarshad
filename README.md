@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erarshad
-- 👀 I’m interested in constructive development such as operating system compiler.
+- 👀 I’m interested in constructive development such as operating system(kernel,networking from scratch) and compiler.
 - 🌱 I’m open source lover
 - 💞️ I have expertise in flutter,spring,angular js , javafx
 - 📫 mohdarshadquraishi@hotmail.com
